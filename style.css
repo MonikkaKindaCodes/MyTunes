@@ -1,3 +1,14 @@
 body {
     font-family: 'Roboto', sans-serif;
 }
+
+.title-page {
+    text-align: center;
+    margin-top: 10%;
+}
+
+.for-windows {
+    text-align: center;
+}
+
+.surface {}
